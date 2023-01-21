@@ -1,6 +1,6 @@
 # Youtube-Clone
 
-This is a YouTube Clone that implements the main features of YouTube solely intended for educational purposes and is created under fair use.
+This is a YouTube Clone that implements the main features of YouTube solely intended for educational purposes and is created under fair use with help of RapidAPI (Youtub AP)
 
 ## What does this app do?
 - It is a clone of YouTube HomePage and SearchPage.
