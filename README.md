@@ -1,5 +1,7 @@
 # Youtube-Clone
 
+This is a YouTube Clone that implements the main features of YouTube solely intended for educational purposes and is created under fair use.
+
 ## What does this app do?
 - It is a clone of YouTube HomePage and SearchPage.
 - HomePage displays the most popular videos by querying data from the YouTube API(Rapid Api).
